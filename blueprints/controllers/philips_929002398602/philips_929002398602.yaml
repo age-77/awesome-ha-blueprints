@@ -52,7 +52,7 @@ blueprint:
               manufacturer: Philips
               # **TBConfirmed** model:
             - integration: zha
-              manufacturer: Signify
+              manufacturer: "Signify Netherlands B.V."
             - integration: deconz
               manufacturer: Philips
               # **TBConfirmed** model:
